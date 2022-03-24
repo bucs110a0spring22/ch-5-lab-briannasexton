@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ This program uses multiple functions to set up a dart board and play a game of darts between two players. Each dart thrown was colored green if it was inside the board or red if it was outside, and boolean values were used to keep track of a score. Then a function was used to estimate pi.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+(https://docs.python.org/3/library/turtle.html) (https://stackoverflow.com/questions/tagged/python)
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+none
